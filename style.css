@@ -1,0 +1,13 @@
+body{
+  background-color: red;
+  display:flex;
+  min-height: 100vb; 
+  flex-direction: column;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+main{
+  position:relative
+  flex: grow 1;
+}
